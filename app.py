@@ -1,4 +1,3 @@
-@@ -1,13 +1,7 @@
 # Machine Learning
 # Aim - To classify Mushrooms as Edible (e) or Poisonous (p) based on their
 # physical characteristics such as Cap Shape, Cap Surface, Cap Color, Odor,
