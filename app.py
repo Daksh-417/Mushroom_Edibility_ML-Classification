@@ -12,7 +12,6 @@ import matplotlib.patches as mpatches
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.linear_model import LogisticRegression
-@@ -18,257 +12,209 @@
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
 
